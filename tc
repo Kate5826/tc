@@ -1,0 +1,18 @@
+[
+    {
+        "id": "212db13b627b71615f28284c83fe87bb1b480596c22baf686833c3c91bd1e8e4",
+        "name": "tc",
+        "phrases": [
+            {
+                "id": "bb4c9e3e-b53f-2f59-a97b-b173bb6e62e1",
+                "parentId": "",
+                "request": {
+                    "text": "hello"
+                },
+                "response": "[{\"text\":\"Hello\",\"rLoc\":{\"file\":\"SmallTalk\",\"line\":10},\"reqId\":\"1643105181523/1\",\"success\":true,\"textInput\":true}]",
+                "meta": "{\"pLoc\":{\"file\":\"SmallTalk\",\"line\":6}}",
+                "visualProperties": "{\"childIndex\":0}"
+            }
+        ]
+    }
+]
